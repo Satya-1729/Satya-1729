@@ -1,23 +1,26 @@
-# 👋 Hi, I’m [**@Satya-1729**](https://github.com/Satya-1729)
+# 🌟 **Welcome to My Profile!** 🌟
 
-### 👀 Interests
-- **Reading books** 📚
+## 👋 Hi, I’m [**@Satya-1729**](https://github.com/Satya-1729)
+---
 
-### 🌱 Currently Learning
-- **Machine Learning** 🤖
+### 👀 **Interests**
+> **📚 Reading Books**
 
-### 💞️ Collaboration Interests
-- **Machine Learning** 🤝
-- **Ethical Hacking** 🛡️
+### 🌱 **Currently Exploring**
+> **🤖 Machine Learning**
 
-### 📫 How to Reach Me
-- [**GitHub Profile**](https://github.com/Satya-1729) 🔗
+### 💞️ **Let’s Collaborate On**
+> **🤝 Machine Learning**  
+> **🛡️ Ethical Hacking**
 
-### 😄 Pronouns
-- **He/Him**
+### 📫 **Reach Out to Me**
+[![GitHub Badge](https://img.shields.io/badge/-Satya--1729-181717?style=for-the-badge&logo=GitHub&logoColor=white&link=https://github.com/Satya-1729)](https://github.com/Satya-1729)
 
-### ⚡ Fun Fact
-- **Be Calm & Cool** 🧘‍♂️
+### 😄 **Pronouns**
+> **He/Him**
+
+### ⚡ **Fun Fact**
+> **🧘‍♂️ Be Calm & Cool**
 
 <!---
 Satya-1729/Satya-1729 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
