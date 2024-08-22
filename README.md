@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Satya-1729
-- 👀 I’m interested in Reading books  
-- 🌱 I’m currently learning Machine learning
-- 💞️ I’m looking to collaborate on machine learning and ethcal hacking
-- 📫 How to reach me https://github.com/Satya-1729
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: Be Calm & Cool
+# 👋 Hi, I’m [@Satya-1729](https://github.com/Satya-1729)
+- 👀 **I’m interested in:** Reading books  
+- 🌱 **Currently learning:** Machine Learning
+- 💞️ **Looking to collaborate on:** Machine Learning and Ethical Hacking
+- 📫 **How to reach me:** [GitHub](https://github.com/Satya-1729)
+- 😄 **Pronouns:** He/Him
+- ⚡ **Fun fact:** Be Calm & Cool
 
 <!---
 Satya-1729/Satya-1729 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
