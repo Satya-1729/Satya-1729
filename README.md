@@ -1,6 +1,6 @@
 # 🌟 **Welcome to My Profile!** 🌟
 
-## 👋 Hi, I’m [**@Satya9_9**](https://github.com/Satya-1729)
+## 👋 Hi, I’m [**@Satya9_9**](https://github.com/Satya9-9)
 ---
 
 ### 👀 **Interests**
